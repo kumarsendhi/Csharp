@@ -1,0 +1,6 @@
+C:\Kumar\CSharp\Fundamentals\ClassesAndObjects\Grades\bin\Debug\Grades.exe.config
+C:\Kumar\CSharp\Fundamentals\ClassesAndObjects\Grades\bin\Debug\Grades.exe
+C:\Kumar\CSharp\Fundamentals\ClassesAndObjects\Grades\bin\Debug\Grades.pdb
+C:\Kumar\CSharp\Fundamentals\ClassesAndObjects\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Kumar\CSharp\Fundamentals\ClassesAndObjects\Grades\obj\Debug\Grades.exe
+C:\Kumar\CSharp\Fundamentals\ClassesAndObjects\Grades\obj\Debug\Grades.pdb
