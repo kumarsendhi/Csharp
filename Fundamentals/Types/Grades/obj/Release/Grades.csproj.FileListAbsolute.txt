@@ -1,0 +1,9 @@
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades\bin\Release\Grades.exe.config
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades\bin\Release\Grades.exe
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades\bin\Release\Grades.pdb
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades\obj\Release\Grades.exe
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades\obj\Release\Grades.pdb
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades\obj\Release\Grades.csprojResolveAssemblyReference.cache
+C:\Kumar\CSharp\Fundamentals\Types\Grades\bin\Release\Grades.exe.config
+C:\Kumar\CSharp\Fundamentals\Types\Grades\obj\Release\Grades.exe
+C:\Kumar\CSharp\Fundamentals\Types\Grades\obj\Release\Grades.pdb
