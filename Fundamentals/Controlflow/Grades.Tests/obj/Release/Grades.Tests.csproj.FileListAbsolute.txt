@@ -1,0 +1,8 @@
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades.Tests\bin\Release\Grades.Tests.dll
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades.Tests\bin\Release\Grades.Tests.pdb
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades.Tests\obj\Release\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades.Tests\obj\Release\Grades.Tests.dll
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades.Tests\obj\Release\Grades.Tests.pdb
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades.Tests\bin\Release\Grades.exe
+C:\Kumar\CSharp\Fundamentals\Assemblies\Grades.Tests\bin\Release\Grades.pdb
